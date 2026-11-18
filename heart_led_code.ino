@@ -1,3 +1,4 @@
+// Arduino LED Heart by @diaawastaken · github.com/engineerdiaa/arduino-led-heart · MIT
 // IG @diaawastaken LED heart Arduino code
 // Please follow for future projects
 
